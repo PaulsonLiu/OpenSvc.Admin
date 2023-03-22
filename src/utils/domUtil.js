@@ -16,4 +16,4 @@ export const setDocumentTitle = function (title) {
   }
 }
 
-export const domTitle = 'Magic.NET'
+export const domTitle = 'OpenSvc.Admin'

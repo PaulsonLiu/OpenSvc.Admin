@@ -4,8 +4,8 @@
       <div class="top">
         <div class="header">
           <a href="/">
-            <img src="~@/assets/logo.png" class="logo" alt="logo">
-            <span class="title">Magic.NET</span>
+            <!-- <img src="~@/assets/logo111.png" class="logo" alt="logo"> -->
+            <span class="title">OpenSvc.Admin</span>
           </a>
         </div>
         <div class="desc">
@@ -22,7 +22,7 @@
           <a href="_self">条款</a>
         </div>
         <div class="copyright">
-          Copyright © 2021 <a target="_blank" href="https://gitee.com/zhengguojing/admin-net-sqlsugar">Magic.NET</a> All rights reserved. v1.3.2
+          Copyright © 2023 <a target="_blank" href="">OpenSvc.Admin</a> All rights reserved. v1.3.2
         </div>
       </div>
     </div>

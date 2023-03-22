@@ -3,7 +3,7 @@
     <div class="links">
     </div>
     <div class="copyright">
-      Copyright © 2021 <a target="_blank" href="https://gitee.com/zuohuaijun/Magic.NET">Magic.NET</a> All rights reserved. v1.3.2
+      Copyright © 2023 <a target="_blank" href="">OpenSvc.Admin</a> All rights reserved. v1.3.2
     </div>
   </div>
 </template>

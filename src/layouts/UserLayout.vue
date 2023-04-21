@@ -4,8 +4,8 @@
       <div class="top">
         <div class="header">
           <a href="/">
-            <!-- <img src="~@/assets/logo111.png" class="logo" alt="logo"> -->
-            <span class="title">OpenSvc.Admin</span>
+            <img src="~@/assets/logo.png" class="logo" alt="logo">
+            <!-- <span class="title">OpenSvc.Admin</span> -->
           </a>
         </div>
         <div class="desc">
@@ -95,7 +95,7 @@ export default {
           }
 
           .logo {
-            height: 44px;
+            height: 80px;
             vertical-align: top;
             margin-right: 16px;
             border-style: none;

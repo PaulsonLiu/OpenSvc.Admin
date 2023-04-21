@@ -1,7 +1,8 @@
 <template>
   <div class="logo">
     <router-link :to="{name:'Console'}">
-      <LogoSvg alt="logo" />
+      <!-- <LogoSvg alt="logo" /> -->
+      <img id="image0" width="200" height="200" src="~@/assets/logo.png" alt="logo">
       <h1 v-if="showTitle">{{ this.titles }}</h1>
     </router-link>
   </div>
@@ -25,7 +26,7 @@ export default {
   props: {
     title: {
       type: String,
-      default: 'OpenSvc.Admin',
+      default: 'OpenSvc',
       required: false
     },
     showTitle: {

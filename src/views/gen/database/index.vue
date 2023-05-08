@@ -130,8 +130,8 @@
           'DBEntityTenant'
         ],
         positionOption: [
-          'Magic.Application',
-          'Magic.Core'
+          'OpenSvc.Service',
+          'OpenSvc.Core'
         ],
         createEntityVisible: false,
         tableLoading: false,

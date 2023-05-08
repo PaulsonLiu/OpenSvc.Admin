@@ -188,7 +188,7 @@
        */
       selectedByDefault() {
         this.form.getFieldDecorator('nameSpace', {
-          initialValue: 'Magic.Application'
+          initialValue: 'OpenSvc.Service'
         })
         // this.form.getFieldDecorator('tablePrefix', { valuePropName: 'checked', initialValue: 'N' })
         this.form.getFieldDecorator('generateType', {
@@ -196,7 +196,7 @@
           initialValue: '2'
         })
         this.form.getFieldDecorator('authorName', {
-          initialValue: 'Magic'
+          initialValue: 'OpenSvc'
         })
 
         // 初始化菜单默认选择
